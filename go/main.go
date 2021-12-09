@@ -9,7 +9,7 @@ import (
 func main() {
 	log.Println("Advent of Code 2021")
 
-	err := day_1.Day_1_solution()
+	err := day_1.Day_1_solutions()
 
 	if err != nil {
 		log.Println(err.Error())
