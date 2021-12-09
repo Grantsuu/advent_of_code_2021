@@ -1,11 +1,10 @@
-package main
+package day_1
 
 import (
 	"testing"
 )
 
 func TestSolution(t *testing.T) {
-	day_1_sol()
 	t.Log("tests")
 	t.Error("bad")
 }
