@@ -1,7 +1,1 @@
-package main
-
-import "fmt"
-
-func main() {
-	fmt.Println("Day 2")
-}
+package day_2
